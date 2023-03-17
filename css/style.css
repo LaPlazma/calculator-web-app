@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: #686868;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+
+button#clear {
+	background-color: #a50202d2;
+}
+
+#display {
+	background-color: #686868;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: right;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+
+td {
+	border: none;
+	width: 100px;
+	height: 100px;
+}
+
+#parent_equal {
+	height: 202px;
+}
